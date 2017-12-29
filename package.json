@@ -1,0 +1,13 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "version": "1.0.0",
+  "description": "Notion",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Yuriy Badalyantc <lmnet89@gmail.com>",
+  "repository": "https://github.com/lmnet/franz-recipe-notion",
+  "config": {
+    "serviceURL": "https://notion.so"
+  }
+}
