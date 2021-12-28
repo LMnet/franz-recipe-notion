@@ -8,6 +8,6 @@
   "author": "Yuriy Badalyantc <lmnet89@gmail.com>",
   "repository": "https://github.com/lmnet/franz-recipe-notion",
   "config": {
-    "serviceURL": "https://notion.so"
+    "serviceURL": "https://notion.so/login"
   }
 }
